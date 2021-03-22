@@ -1,0 +1,8 @@
+.RData
+.Ruserdata
+.Rproj.user
+.Rhistory
+.ipynb*
+~*
+.DS_Store
+*checkpoints
