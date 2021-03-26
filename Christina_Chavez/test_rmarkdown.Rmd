@@ -1,0 +1,12 @@
+---
+title: "test_rmarkdown"
+author: "christina chavez"
+date: "3/25/2021"
+output: html_document
+---
+
+```{r}
+print("testing..123")
+```
+
+
